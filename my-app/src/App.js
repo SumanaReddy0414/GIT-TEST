@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Navbar dark color="primary">
         <div className="container">
+          <h1>Hi First react app</h1>
           <NavbarBrand href="/">React App Confusion</NavbarBrand>
         </div>
 
